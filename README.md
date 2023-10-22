@@ -36,6 +36,25 @@ Practice
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # practice
 my first repository
 #include <stdio.h>
